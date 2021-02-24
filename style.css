@@ -1,0 +1,35 @@
+a{
+    text-decoration: none;
+    color: rgb(241, 52, 52);
+}
+h1{
+font-size: 40px; 
+border-bottom: rgb(248, 210, 179) dashed ;
+padding: 15px;
+text-align: center;
+margin: 0pt;
+}
+h2 {
+font-family: "궁서체" ;
+color: rgb(255, 92, 182);
+}
+img{
+border-right: none;
+width: 190px;
+margin: 0pt;
+
+}
+.목록{display:grid;
+    grid-template-columns: 5fr  2fr
+
+}
+.목차{
+    border:dotted rgb(221, 1, 203) ;
+    padding: 15px;
+    text-align: center;
+}
+
+#내용{
+display:grid;
+grid-template-columns: 200px 1fr
+}
